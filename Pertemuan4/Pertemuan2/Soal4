@@ -1,0 +1,26 @@
+void main() {
+  String nama = "Kyutie Aurellia";
+  String? alamat;
+  
+  alamat = "Malang";
+  alamat = null;
+  
+  print('Nama: $nama');
+  print('Alamat: $alamat');
+  
+  late String keterangan;
+  
+  keterangan = "Ini diisi setelah deklarasi";
+  print('Keterangan: $keterangan');
+  
+  print('\n--- PERBEDAAN ---');
+  
+  int? umur;
+  umur = 20;
+  umur = null;
+  print('Umur (dengan ?): $umur');
+  
+  late int tinggi;
+  tinggi = 160;
+  print('Tinggi (dengan late): $tinggi');
+}
