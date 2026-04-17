@@ -26,31 +26,31 @@ samples, guidance on mobile development, and a full API reference.
 
 Pada panel sebelah kiri VS Code, pastikan bahwa Penjelajah dipilih lalu buka file pubspec.yaml. Kemudian ganti konten file.
 
-![Tugas Praktikum](img/tprak/pb1.png)
+![Tugas Praktikum](../img/tprak/pb1.png)
 
-![Tugas Praktikum](img/tprak/pb2.png)
+![Tugas Praktikum](../img/tprak/pb2.png)
 
-![Tugas Praktikum](img/tprak/pb3.png)
+![Tugas Praktikum](../img/tprak/pb3.png)
 
 ## Mengganti isi main
 
-![Tugas Praktikum](img/tprak/main1.png)
+![Tugas Praktikum](../img/tprak/main1.png)
 
 ## Hot Reload Pertama
 
 **Output**
 
-![Tugas Praktikum](img/tprak/tbm1.jpeg)
+![Tugas Praktikum](../img/tprak/tbm1.jpeg)
 
-![Tugas Praktikum](img/tprak/tbm2.jpeg)
+![Tugas Praktikum](../img/tprak/tbm2.jpeg)
 
 ## Menambahkan tombol
 
-![Tugas Praktikum](img/tprak/tombol1.png)
+![Tugas Praktikum](../img/tprak/tombol1.png)
 
 **Output**
 
-![Tugas Praktikum](img/tprak/tbl1.jpeg)
+![Tugas Praktikum](../img/tprak/tbl1.jpeg)
 
 ## Menambahkan kartu
 
@@ -81,19 +81,19 @@ class MyHomePage extends StatelessWidget {
 
 **Output**
 
-![Tugas Praktikum](img/tprak/kartu1.jpeg)
+![Tugas Praktikum](../img/tprak/kartu1.jpeg)
 
 ## Menambahkan kelas bigcard
 
-![Tugas Praktikum](img/tprak/bgc1.png)
+![Tugas Praktikum](../img/tprak/bgc1.png)
 
-![Tugas Praktikum](img/tprak/bgc2.png)
+![Tugas Praktikum](../img/tprak/bgc2.png)
 
-![Tugas Praktikum](img/tprak/bgc3.png)
+![Tugas Praktikum](../img/tprak/bgc3.png)
 
 **Output**
 
-![Tugas Praktikum](img/tprak/bgc4.jpeg)
+![Tugas Praktikum](../img/tprak/bgc4.jpeg)
 
 ## Tema dan Gaya
 
@@ -114,7 +114,7 @@ class MyHomePage extends StatelessWidget {
 
 **Output**
 
-![Tugas Praktikum](img/tprak/bgc5.jpeg)
+![Tugas Praktikum](../img/tprak/bgc5.jpeg)
 
 ## Tema Text
 
@@ -142,43 +142,43 @@ Kartu tersebut masih memiliki masalah: ukuran teks terlalu kecil dan warnanya me
 
 **Output**
 
-![Tugas Praktikum](img/tprak/bgc6.jpeg)
+![Tugas Praktikum](../img/tprak/bgc6.jpeg)
 
 ## Menempatkan UI di tengah
 
-![Tugas Praktikum](img/tprak/ui1.png)
+![Tugas Praktikum](../img/tprak/ui1.png)
 
 **Output**
 
-![Tugas Praktikum](img/tprak/center1.jpeg)
+![Tugas Praktikum](../img/tprak/center1.jpeg)
 
 ## Menambahkan tombol
 
-![Tugas Praktikum](img/tprak/tbm3.png)
+![Tugas Praktikum](../img/tprak/tbm3.png)
 
 **Output**
 
-![Tugas Praktikum](img/tprak/opt1.jpeg)
+![Tugas Praktikum](../img/tprak/opt1.jpeg)
 
 ## Menambahkan tombol love
 
-![Tugas Praktikum](img/tprak/tbm4.png)
+![Tugas Praktikum](../img/tprak/tbm4.png)
 
 **Output**
 
-![Tugas Praktikum](img/tprak/opt2.jpeg)
+![Tugas Praktikum](../img/tprak/opt2.jpeg)
 
-![Tugas Praktikum](img/tprak/opt3.jpeg)
+![Tugas Praktikum](../img/tprak/opt3.jpeg)
 
 ## Menambahkan kolom samping navigasi
 
-![Tugas Praktikum](img/tprak/bg1.png)
+![Tugas Praktikum](../img/tprak/bg1.png)
 
-![Tugas Praktikum](img/tprak/bg2.png)
+![Tugas Praktikum](../img/tprak/bg2.png)
 
 **Output**
 
-![Tugas Praktikum](img/tprak/sw1.jpeg)
+![Tugas Praktikum](../img/tprak/sw1.jpeg)
 
 ```dart
  selectedIndex: selectedIndex,    // ← Change to this.
@@ -192,7 +192,7 @@ Kartu tersebut masih memiliki masalah: ukuran teks terlalu kecil dan warnanya me
 
 **Output**
 
-![Tugas Praktikum](img/tprak/sw2.jpeg)
+![Tugas Praktikum](../img/tprak/sw2.jpeg)
 
 ## Menggunakan selectedIndex
 
@@ -212,7 +212,7 @@ switch (selectedIndex) {
 
 **Output**
 
-![Tugas Praktikum](img/tprak/garis1.jpeg)
+![Tugas Praktikum](../img/tprak/garis1.jpeg)
 
 **Untuk switch page**
 
