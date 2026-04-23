@@ -12,9 +12,9 @@
 
 Buatlah sebuah project flutter baru dengan nama layout_flutter. Atau sesuaikan style laporan praktikum yang Anda buat.
 
-![Langkah 1](/img/prak1/lkh1.png)
+![Langkah 1](img/prak1/lkh1.png)
 
-![Langkah 1](/img/prak1/lkh12.png)
+![Langkah 1](img/prak1/lkh12.png)
 
 ## Praktikum 1 - Langkah 2
 
@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-![Langkah 2](/img/prak1/cd1.png)
+![Langkah 2](img/prak1/cd1.png)
 
 ## Praktikum 1 - Langkah 3
 
@@ -108,9 +108,9 @@ Pertama, Anda akan membuat kolom bagian kiri pada judul. Tambahkan kode berikut 
     );
 ```
 
-![Langkah 4](/img/prak1/cd4.png)
+![Langkah 4](img/prak1/cd4.png)
 
-![Langkah 4](/img/prak1/output4.jpeg)
+![Langkah 4](img/prak1/output4.jpeg)
 
 ## Praktikum 2 - Langkah 1 - 2 - 3
 
@@ -171,7 +171,7 @@ Tambah button section ke body
 
 Tambahkan variabel buttonSection ke dalam body seperti berikut:
 
-![Langkah 3](/img/prak1/btn1.png)
+![Langkah 3](img/prak1/btn1.png)
 
 ![Langkah 1,2,3](img/prak1/op123.jpeg)
 
