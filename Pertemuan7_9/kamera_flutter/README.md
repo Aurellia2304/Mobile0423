@@ -86,3 +86,56 @@ Gunakan widget CameraPreview dari package camera untuk menampilkan preview foto.
 **Output**
 
 ![Langkah 5](img/prak1/lk5.png)
+
+## Praktikum 1 - Langkah 6
+
+Membuat sebuah FloatingActionButton yang digunakan untuk mengambil gambar menggunakan CameraController saat pengguna mengetuk tombol.
+
+Pengambilan gambar memerlukan 2 langkah:
+
+1. Pastikan kamera telah diinisialisasi.
+2. Gunakan controller untuk mengambil gambar dan pastikan ia mengembalikan objek Future.
+
+**Output**
+
+![Langkah 6](img/prak1/lk6.png)
+
+![OUTPUT LANGKAH 6](img/prak1/op6.jpeg)
+
+![OUTPUT LANGKAH 6](img/prak1/op6.1.jpeg)
+
+## Praktikum 1 - Langkah 7
+
+Membuat file baru pada folder widget.
+
+```dart
+class DisplayPictureScreen extends StatelessWidget {
+  final String imagePath;
+
+  const DisplayPictureScreen({super.key, required this.imagePath});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: const Text('Display the Picture - NIM Anda')),
+      // The image is stored as a file on the device. Use the `Image.file`
+      // constructor with the given path to display the image.
+      body: Image.file(File(imagePath)),
+    );
+  }
+}
+```
+
+## Praktikum 1 - Langkah 8
+
+Mengedit pada file ini bagian runApp
+
+![Langkah 8](img/prak1/lk8.png)
+
+## Praktikum 1 - Langkah 9
+
+Menambahkan kode seperti berikut pada bagian try / catch agar dapat menampilkan hasil foto pada DisplayPictureScreen.
+
+![Langkah 9](img/prak1/lk9.png)
+
+![OUTPUT LANGKAH 9](img/prak1/op9.jpeg)
